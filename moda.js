@@ -1,3 +1,5 @@
+//Utilize este archivo para guiarme y sacar la moda
+
 const array1 = [3, 1, 2, 3, 4, 5, 6, 7, 8, 3, 4, 5, 7, 3, 2, 6, 3, 6, 4, 7, 5, 8, 3, 6, 9, 3, 5];
 
 const busqueda = (arreglo, callback) => {
